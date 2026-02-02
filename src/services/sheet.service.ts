@@ -1,5 +1,5 @@
 import { google } from 'googleapis';
-import service_json from '../../service_auth.json' 
+import service_json from '../config/service_auth.json' 
 
 const SHEET_ID = process.env.GOOGLE_SHEET_ID!;
 const SERVICE_ACCOUNT_JSON = service_json;

@@ -1,3 +1,5 @@
+config/service_auth.json
+
 # Logs
 logs
 *.log
